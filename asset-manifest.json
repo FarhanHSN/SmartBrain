@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smartBrain/static/css/main.f9ea0915.chunk.css",
-    "main.js": "/smartBrain/static/js/main.6508b7aa.chunk.js",
-    "main.js.map": "/smartBrain/static/js/main.6508b7aa.chunk.js.map",
+    "main.js": "/smartBrain/static/js/main.7241f112.chunk.js",
+    "main.js.map": "/smartBrain/static/js/main.7241f112.chunk.js.map",
     "runtime-main.js": "/smartBrain/static/js/runtime-main.4724e3f9.js",
     "runtime-main.js.map": "/smartBrain/static/js/runtime-main.4724e3f9.js.map",
     "static/css/2.6d7c7915.chunk.css": "/smartBrain/static/css/2.6d7c7915.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.610200a0.chunk.js",
     "static/css/main.f9ea0915.chunk.css",
-    "static/js/main.6508b7aa.chunk.js"
+    "static/js/main.7241f112.chunk.js"
   ]
 }
